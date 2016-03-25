@@ -1,6 +1,7 @@
 # doodler
 
 HOW TO RUN PROGRAM:
+Build in Android Studio and run
 
 
 
